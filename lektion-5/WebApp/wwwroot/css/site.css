@@ -44,3 +44,12 @@
     .link-twitter:hover {
         background: #1277b8;
     }
+
+.link-microsoft {
+    color: #ffffff;
+    background: #1b9df1;
+}
+
+    .link-microsoft:hover {
+        background: #1277b8;
+    }
