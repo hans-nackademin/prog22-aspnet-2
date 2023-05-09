@@ -1,0 +1,46 @@
+.form-control,
+.form-check-input {
+    border: 1px solid #cccccc !important;
+}
+
+.shadow {
+    box-shadow: 15px 15px 15px 5px rgba(0, 0, 0, 0.1) !important;
+}
+
+.link-circle {
+    background: transparent;
+    color: #000000;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 5px;
+    text-decoration: none;
+    transition: background 0.15s ease-in-out;
+}
+
+.link-facebook {
+    color:#ffffff;
+    background: #3c599b;
+}
+    .link-facebook:hover {
+        background: #203157;
+    }
+
+.link-google {
+    color: #ffffff;
+    background: #e92633;
+}
+    .link-google:hover {
+        background: #8f171f;
+    }
+
+.link-twitter {
+    color: #ffffff;
+    background: #1b9df1;
+}
+    .link-twitter:hover {
+        background: #1277b8;
+    }
