@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Education\PROG22\aspnet-2\lektion-8\UnitTesting\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
