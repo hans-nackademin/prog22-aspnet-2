@@ -1,0 +1,9 @@
+global using Xunit;
+global using Microsoft.AspNetCore.Mvc;
+global using Moq;
+global using WebApi.Controllers;
+global using WebApi.Helpers.Services;
+global using WebApi.Models.Dtos;
+global using WebApi.Models.Schemas;
+global using WebApi.Tests.Fixtures;
+global using WebApi.Models.Entities;
